@@ -2,13 +2,16 @@
 <h3 align="center">A passionate software engineer from University of Washington</h3>
 
 
-- 📄 Know about my experiences [I am pursuing a Masters of Science of Computer Science at the University of Washington, with a planned graduation of December, 2024. And before that I was working as a Software Engineer at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.](I am pursuing a Masters of Science of Computer Science at the University of Washington, with a planned graduation of December, 2024. And before that I was working as a Software Engineer at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.)
+- 📄 I am pursuing a Masters of Science of Computer Science at the University of Washington, with a planned graduation of December, 2024.
+-     And before that I was working as a Software Engineer at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.
 
 - 🔭 I’m currently working on **Recommendation Systems based on LLMs and RAG**
 
 - 🌱 I’m currently learning **Distributed Systems, LLMs, and Database encryption.**
 
-- 📝 I hold patents for [enhancing the efficiency of distributed system task scheduling and hybrid cloud management, including "Big Data Resource Dynamic Scheduling Method” (patent link: https://patents.google.com/patent/CN113391911A/en) , “Server Cluster Mixed Deployment Method, Cluster Management Node, and Related System” (patent link: https://patents.google.com/patent/CN111858050A/en), etc.](enhancing the efficiency of distributed system task scheduling and hybrid cloud management, including "Big Data Resource Dynamic Scheduling Method” (patent link: https://patents.google.com/patent/CN113391911A/en) , “Server Cluster Mixed Deployment Method, Cluster Management Node, and Related System” (patent link: https://patents.google.com/patent/CN111858050A/en), etc.)
+- 📝 I hold patents for enhancing the efficiency of distributed system task scheduling and hybrid cloud management, including
+-     "Big Data Resource Dynamic Scheduling Method” (patent link: https://patents.google.com/patent/CN113391911A/en) ,
+-     “Server Cluster Mixed Deployment Method, Cluster Management Node, and Related System” (patent link: https://patents.google.com/patent/CN111858050A/en), etc.
 
 - 📫 How to reach me **summer.liying.yang@gmail.com**
 
