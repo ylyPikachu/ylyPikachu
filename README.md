@@ -3,7 +3,7 @@
 
 - 🎓 I am pursuing a **Masters of Science of Computer Science at the University of Washington**, with a planned graduation of **December, 2024**.
 
-- 👩‍💻 I used to work as a Software Engineer and Product Manager at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.
+- 👩‍💻 I used to work as a **Software Engineer and Product Manager** at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from **data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance**.
 
 - 🌱 I’m currently learning **Large Language Models, Secure Multi-party Computation, and Private Set Intersection.**
   
