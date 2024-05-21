@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Liying Yang</h1>
 <h3 align="center">A passionate software engineer from University of Washington</h3>
 
-- 📄 I am pursuing a **Masters of Science of Computer Science at the University of Washington**, with a planned graduation of **December, 2024**.
-     Before that I was working as a Software Engineer at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.
+- 🎓 I am pursuing a **Masters of Science of Computer Science at the University of Washington**, with a planned graduation of **December, 2024**.
+
+- 👩‍💻 I used to work as a Software Engineer and Product Manager at the commercial bank with the highest market capitalization, ICBC, where I had hands-on experience from data platform infrastructure’s product design, data pipeline development, monitoring system implementation, and site reliability assurance.
+
+- 🌱 I’m currently learning **Large Language Models, Secure Multi-party Computation, and Private Set Intersection.**
   
-- 🔭 I’m currently working on **Recommendation Systems based on LLMs and RAG**
+- 🔭 I’m currently working on **Recommendation Systems based on LLMs and RAG.**
 
-- 🌱 I’m currently learning **Distributed Systems, LLMs, and Database encryption.**
+- 📝 I also hold patents for [Big Data Resource Dynamic Scheduling Method](https://patents.google.com/patent/CN113391911A/en), [Performance index prediction method and device](https://patents.google.com/patent/CN111930602B/en) 
+                    and [Server Cluster Mixed Deployment Method, Cluster Management Node, and Related System](https://patents.google.com/patent/CN111858050A/en).
 
-- 📝 I hold patents for [Big Data Resource Dynamic Scheduling Method](https://patents.google.com/patent/CN113391911A/en),[Performance index prediction method and device](https://patents.google.com/patent/CN111930602B/en) 
-                    and [Server Cluster Mixed Deployment Method, Cluster Management Node, and Related System](https://patents.google.com/patent/CN111858050A/en) 
-
-- 📫 How to reach me **summer.liying.yang@gmail.com**
+- 📫 How to reach me **summer.liying.yang@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
